@@ -1,6 +1,4 @@
-________________________________________________________________________
 DOCUMENTATION FOR COMMAND-LINE WEATHER CHECKING APPLICATION USING PYTHON
-________________________________________________________________________
 
 
 -------------------------------
@@ -8,8 +6,11 @@ THIS APPLICATION ALLOWS YOU TO:
 -------------------------------
 
   1> Check weather by providing a city name.
+  
   2> Add a city to your list of favorite cities.
+  
   3> Remove a city from your list of favorite cities.
+  
   4> List all your favorite cities.
 
 
@@ -17,15 +18,17 @@ THIS APPLICATION ALLOWS YOU TO:
 COMMANDS TO USE:-
 -----------------
 
-  -h, --help            show this help message and exit
+  -h, --help           
+  It show the help message and exit
   
   --add-favorite ADD_FAVORITE
-                        Add city to favorites
+  It adds city to favorites.
 
   --remove-favorite REMOVE_FAVORITE
-                        Remove city from favorites
+  It removes city from favorites.
 
-  --list-favorites      List favorite cities
+  --list-favorites      
+  It list favorite cities.
 
 
 
